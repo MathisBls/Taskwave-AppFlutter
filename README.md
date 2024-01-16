@@ -1,6 +1,6 @@
 # taskwave
 
-A new Flutter project.
+A to do list app that helps you manage your tasks and time.
 
 ## Getting Started
 
