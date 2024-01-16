@@ -1,4 +1,4 @@
-# taskwave
+# Taskwave
 
 A to do list app that helps you manage your tasks and time.
 
